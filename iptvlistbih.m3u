@@ -254,9 +254,9 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
 #EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaESports-www/index.m3u8
 
-#EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/F4Tdc8z.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 1
+#EXTINF:-1 tvg-id="zadruga" tvg-name="zadruga" tvg-country="HR" tvg-language="HR" tvg-logo="https://xdn.tf.rs/2025/08/22/elita-9-670x447.webp" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
+https://webtvstream.bhtelecom.ba/hls19/zadruga_live1_1200.m3u8
 
 #EXTINF:-1 tvg-id="orf2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/TUMDAMS.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ORF 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
