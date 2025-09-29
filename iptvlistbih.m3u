@@ -113,8 +113,8 @@ https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
 #EXTINF:-1 tvg-id="TVAS.rs" tvg-name="RTV AS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zyuIgzL.png" group-title="General",RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 
-#EXTINF:-1 tvg-id="BHT1" tvg-name="BHT1" tvg-country="RS" tvg-language="SRP" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_of_BHT_1_%282003-2012%29.png/250px-Logo_of_BHT_1_%282003-2012%29.png" group-title="General",RTV AS
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="supertv" tvg-name="supertv" tvg-country="BS" tvg-language="SBS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZ98-bbK8oPfvHaEgrsiEC0QM4hEO21Ihtw&s" group-title="General",SUPERTV
+https://mirtv.club/live/mirtv/index.m3u8
 
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQCcO1S.png" group-title="Sports",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
