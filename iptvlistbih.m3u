@@ -498,8 +498,3 @@ https://nl1.streamingpulse.com/ssl/RadioGradiska
 #EXTINF:-1 tvg-id="trt1" tvg-name="TRT1" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/jvMUStW.png" group-title="General",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-id="informertv" tvg-name="informertv" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/JEAwgVs.jpeg" group-title="General",Informer TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=dttps://informer.rs/tv/live-tv/
-https://539745e629986.streamlock.net/informertv-secure/web/playlist.m3u8
