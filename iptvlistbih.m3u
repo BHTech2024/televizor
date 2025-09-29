@@ -495,6 +495,6 @@ https://radio.laktasiturizam.org/live
 #EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
 https://nl1.streamingpulse.com/ssl/RadioGradiska
 
-#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1" tvg-country="TR" tvg-language="TR" tvg-logo="https://trt-public-static.trt.com.tr/trt1/public/dm_upload/modul4/de373130-2063-4c6b-b238-87a3947a66e9.jpg" group-title="General",TRT 1
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT1" tvg-country="TR" tvg-language="TR" tvg-logo="https://i.imgur.com/jvMUStW.png" group-title="General",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8
