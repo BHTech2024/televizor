@@ -113,7 +113,8 @@ https://6069699a9e3f3.streamlock.net/rtvkg/uzivo/chunklist_w1996912920.m3u8
 #EXTINF:-1 tvg-id="TVAS.rs" tvg-name="RTV AS" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zyuIgzL.png" group-title="General",RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 
-#EXTINF:-1 tvg-id="supertv" tvg-name="supertv" tvg-country="BA" tvg-language="BOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZ98-bbK8oPfvHaEgrsiEC0QM4hEO21Ihtw&s" group-title="General",SUPERTV
+#EXTINF:-1 tvg-id="supertv" tvg-name="supertv" tvg-country="BA" tvg-language="BOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZ98-bbK8oPfvHaEgrsiEC0QM4hEO21Ihtw&s" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",SUPER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://mirtv.club/live/mirtv/index.m3u8
 
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQCcO1S.png" group-title="Sports",SOS Kanal Plus
