@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="rtvbn.tv" tvg-name="BN TV" tvg-country="BA" tvg-language="BOS" tvg-logo="https://i.imgur.com/BKBr8Mr.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",BN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rtvbn.tv:8080/live/index.m3u8
@@ -487,9 +488,6 @@ https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_250000
 
 #EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" group-title="BiH" tvg-logo="https://i.imgur.com/tjtHrvd.png",Radio BN
 http://stream.rtvbn.com:8522/.mp3
-
-#EXTINF:-1 tvg-id="TokTV" tvg-name="Tok TV" group-title="BiH" tvg-logo="https://imgur.com/6522cd3c-a68c-418e-89fa-f18b3c7da929",Tok Tv
-https://elara.netcomm.rs/toktv/embed.html?token=toktv
 
 #EXTINF:-1 radio="true" tvg-id="RadioLaktasi" tvg-name="Radio Laktasi" group-title="BiH" tvg-logo="https://i.imgur.com/a98lWqF.png",Radio Laktasi
 https://radio.laktasiturizam.org/live
