@@ -297,7 +297,7 @@ https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
 
 #EXTINF:-1 tvg-id="ard.de" tvg-name="ARD" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/NaAQt4g.png" group-title="Njemacka" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ARD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://strm.hdtvizlecanli.com/live/ard1.m3u8
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/yiCaC2z.png" group-title="Njemacka" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",ntv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
