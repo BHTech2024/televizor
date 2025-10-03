@@ -382,9 +382,6 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="Redbulltv.at" tvg-name="Red Bull TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/sTZc4Dd.png" group-title="Njemacka",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
 #EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/zhKxthr.png" group-title="Srbija" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",IDJTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
@@ -397,13 +394,6 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.cmctv.hr:49998/jugoton/live.m3u8
 
-#EXTINF:-1 tvg-id="KlapeiTambureTV.hr" tvg-name="Klape i Tambure TV" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/hJ4WBbb.png" group-title="Hrvatska" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Klape i Tambure TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://stream.cmctv.hr:49998/kit/live.m3u8
-
-#EXTINF:-1 tvg-id="AdriaEXYURock.hr" tvg-name="Adria EXYU Rock" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/rsynaLO.png" group-title="Hrvatska" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Adria EXYU Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://de1.adriatelekom.com/AdriaEXYURock-www/index.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/mm8V0dm.png" group-title="Srbija",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
@@ -440,9 +430,6 @@ https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Flashback.rs" tvg-name="Flashback" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/OJ6Bs8s.png" group-title="Srbija",Flashback
 https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Electro.rs" tvg-name="Electro" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/LTxyGog.png" group-title="Srbija",ELECTRO
-https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="X-Muzzik.rs" tvg-name="X-MUZZIK" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/62f26Gg.png" group-title="Srbija" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",X-MUZZIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://muzzik-live.morescreens.com/mts-10/576p/chunklist.m3u8
@@ -455,24 +442,6 @@ https://muzzik-live.morescreens.com/mts-11/576p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://muzzik-live.morescreens.com/mts-14/576p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TDIradio.rs" tvg-name="TDI Radio" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="Srbija",TDI Radio
-https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
-
-#EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/s2nYXyD.png" group-title="Srbija",Radio Lola
-https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-
-#EXTINF:-1 tvg-id="KarolinaTV.rs" tvg-name="Karolina TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/Q6D1zyf.png" group-title="Srbija" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Karolina TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-
-#EXTINF:-1 tvg-id="hitfm.rs" tvg-name="Radio HIT FM" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/8Vbl5Ma.png" group-title="Srbija" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio HIT FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/master.m3u8
-
-#EXTINF:-1 tvg-id="radiostv.rs" tvg-name="Radio S TV" tvg-country="RS" tvg-language="SRP" tvg-logo="https://i.imgur.com/FXg5hEd.png" group-title="Srbija" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio S TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="extrafm.hr" tvg-name="Extra FM" tvg-country="HR" tvg-language="HRV" tvg-logo="https://i.imgur.com/clA0iWS.png" group-title="Hrvatska" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Extra FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
@@ -481,24 +450,7 @@ https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
 
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-country="DE" tvg-language="DEU" tvg-logo="https://i.imgur.com/gnA6f7M.png" group-title="Njemacka",DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" tvg-country="DE" tvg-language="DEU" tvg-name="DELUXE MUSIC RAP" tvg-logo="https://i.imgur.com/PShwwuR.png" group-title="Njemacka",DELUXE MUSIC RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-
-#EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone TV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/u0YrjdQ.png" group-title="Austrija",Krone TV
+#EXTINF:-1 tvg-id="KroneTV" tvg-name="KroneTV" tvg-country="AT" tvg-language="DEU" tvg-logo="https://i.imgur.com/u0YrjdQ.png" group-title="Austrija",KroneTV
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_2500000=10002-mp4a_128000_deu=20000.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="radiobn" tvg-name="Radio BN" group-title="BiH" tvg-logo="https://i.imgur.com/tjtHrvd.png",Radio BN
-http://stream.rtvbn.com:8522/.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioLaktasi" tvg-name="Radio Laktasi" group-title="BiH" tvg-logo="https://i.imgur.com/a98lWqF.png",Radio Laktasi
-https://radio.laktasiturizam.org/live
-
-#EXTINF:-1 radio="true" tvg-id="RadioGradiska" tvg-name="Radio Gradiska" group-title="BiH" tvg-logo="https://i.imgur.com/M5M3jWB.png",Radio Gradiska
-https://nl1.streamingpulse.com/ssl/RadioGradiska
-
-#EXTINF:-1 tvg-id="trt1" tvg-name="TRT1" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/jvMUStW.png" group-title="Turska",TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
