@@ -259,7 +259,7 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
 #EXTVLCOPT:http-referrer=https://adriatelekom.com
 https://de1.adriatelekom.com/AdriaESports-www/index.m3u8
 
-#EXTINF:-1 tvg-id="elita9" tvg-name="elita9" tvg-country="SR" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQ6mcIk.jpeg" group-title="Hrvatska" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Elita 9
+#EXTINF:-1 tvg-id="Zadruga" tvg-name="Zadruga" tvg-country="SR" tvg-language="SRP" tvg-logo="https://i.imgur.com/kQ6mcIk.jpeg" group-title="Hrvatska" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Zadruga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls19/zadruga_live1_1200.m3u8
 
